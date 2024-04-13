@@ -1,0 +1,9 @@
+{
+    "verbose": true,
+    "moduleNameMapper": {
+        "\\.(css|less)$": "<rootDir>/src/popover/popover.js"
+      },
+    "preset": "jest-puppeteer"
+  }
+  
+
